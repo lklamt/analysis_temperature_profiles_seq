@@ -1,0 +1,59 @@
+ExifTool Version Number         : 11.24
+File Name                       : frame_000010.fff
+Directory                       : .
+File Size                       : 603 kB
+File Modification Date/Time     : 2021:01:07 12:06:19+01:00
+File Access Date/Time           : 2021:01:07 12:06:19+01:00
+File Creation Date/Time         : 2021:01:07 12:06:19+01:00
+File Permissions                : rw-rw-rw-
+File Type                       : FLIR
+File Type Extension             : fff
+MIME Type                       : application/unknown
+Creator Software                : ResearchIR
+Emissivity                      : 0.95
+Object Distance                 : 1.00 m
+Reflected Apparent Temperature  : 20.0 C
+Atmospheric Temperature         : 20.0 C
+IR Window Temperature           : 20.0 C
+IR Window Transmission          : 1.00
+Relative Humidity               : 50.0 %
+Planck R1                       : 16293.159
+Planck B                        : 1423.2
+Planck F                        : 1
+Atmospheric Trans Alpha 1       : 0.006569
+Atmospheric Trans Alpha 2       : 0.012620
+Atmospheric Trans Beta 1        : -0.002276
+Atmospheric Trans Beta 2        : -0.006670
+Atmospheric Trans X             : 1.900000
+Camera Temperature Range Max    : 150.0 C
+Camera Temperature Range Min    : -40.0 C
+Camera Temperature Max Clip     : 160.0 C
+Camera Temperature Min Clip     : -60.0 C
+Camera Temperature Max Warn     : 150.0 C
+Camera Temperature Min Warn     : -40.0 C
+Camera Temperature Max Saturated: 180.0 C
+Camera Temperature Min Saturated: -60.0 C
+Camera Model                    : FLIR A655sc
+Camera Part Number              : 55001-0302
+Camera Serial Number            : 55003489
+Camera Software                 : 16.0.0
+Lens Model                      : FOL25
+Lens Part Number                : T197909
+Lens Serial Number              : 56510851
+Field Of View                   : 25.0 deg
+Filter Model                    : 
+Filter Part Number              : 
+Filter Serial Number            : 
+Planck O                        : -4166
+Planck R2                       : 0.014335743
+Raw Value Median                : 12590
+Raw Value Range                 : 556
+Date/Time Original              : 2020:10:20 11:14:01.923+01:00
+Focus Step Count                : 51530
+Focus Distance                  : 0.3 m
+Frame Rate                      : 60
+Raw Thermal Image Width         : 640
+Raw Thermal Image Height        : 480
+Raw Thermal Image Type          : TIFF
+Raw Thermal Image               : (Binary data 614604 bytes, use -b option to extract)
+Peak Spectral Sensitivity       : 10.1 um
